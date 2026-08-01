@@ -1,9 +1,8 @@
 # 👋 Welcome to My Data Analytics Portfolio
 
-Hi, I'm **Hanem Ahmad**, a graduate of the **Faculty of Engineering, Cairo University**, specializing in **Electronics and Communications Engineering**.
+I am an aspiring Data Analyst with a background in Electronics and Communications Engineering from Cairo University.
 
-I am an **Aspiring Data Analyst** currently completing the **Google Data Analytics Professional Certificate**. I enjoy transforming raw data into meaningful 
-insights using **Power BI, SQL, Excel**.
+I enjoy transforming raw data into meaningful insights through data cleaning, analysis, and interactive dashboards using Power BI, SQL, and Excel. I am currently completing the Google Data Analytics Professional Certificate while continuously building real-world data analytics projects.
 
 
 ## 🛠️ Skills
@@ -13,26 +12,26 @@ insights using **Power BI, SQL, Excel**.
 - Microsoft Excel
 - DAX
 - Power Query
-- Power pivot
+- Power Pivot
 - Data Cleaning
 - Data Modeling
 - Data Analysis
-- Interactive Dashboard Development
 - Data Visualization
+- Interactive Dashboard Development
 
 ## 📜 Certifications
 
 - Google Data Analytics Professional Certificate (Coursera)
 - Career Ready AI and Professional Skills (INCO Academy & MetLife Foundation)
 
-🔗 [View All Certificates](./certificates)
+🔗 [View All Certificates](certificates/README.md)
 ## Projects
 
 ### 📊 Project 1: Sales Performance Dashboard
 
-**Description** 
+### Overview
 
-  This project is an interactive **Sales Performance Dashboard** built using **Microsoft Power BI** to analyze sales data and provide actionable business insights.
+  This project is an interactive **Sales Performance Dashboard** built using **Microsoft Power BI** to analyze sales data and provide actionable business      insights.
 
 **Key Insights**
 
@@ -68,6 +67,6 @@ Description...
 
 ## 📫 Contact
 
-- 💼 **LinkedIn:** https://linkedin.com/in/hanemahmad
-- 💻 **GitHub:** https://github.com/HanemAhmad
-- 📧 **Email:** hesham44zeyad@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/hanemahmad
+- 💻 GitHub: https://github.com/HanemAhmad
+- 📧 Email: hesham44zeyad@gmail.com
