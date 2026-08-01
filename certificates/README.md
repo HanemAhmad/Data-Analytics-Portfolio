@@ -10,7 +10,7 @@
 
 ### Course 2: Ask Questions to Make Data-Driven Decisions
 
-![Course 2](Course-2-Ask-Questions-to-Make-Data-Driven_Decisions.jpeg)
+![Course 2](Course-2-Ask-Questions-to-Make-Data-Driven-Decisions.jpeg)
 
 ---
 
