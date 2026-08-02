@@ -25,6 +25,11 @@ I enjoy transforming raw data into meaningful insights through data cleaning, an
 - Career Ready AI and Professional Skills (INCO Academy & MetLife Foundation)
 
 🔗 [View All Certificates](certificates/README.md)
+
+## 📄 Resume
+
+🔗 [View Resume](My_cv_data_analyst.pdf)
+
 ## Projects
 
 ### 📊 Project 1: Sales Performance Dashboard
