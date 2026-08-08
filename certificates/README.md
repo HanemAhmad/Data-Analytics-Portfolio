@@ -41,12 +41,18 @@
 ### Course 7: Introduction to Data Analysis Using Python
 
 ![Course 7](Course-7-Introduction-to-Data-Analysis-Using-Python.png)
+
 ---
+### Course 8: Google Data Analytics Capstone: Complete a Case Study
+![Course 8](Course-8-Google-Data-Analytics-Capstone.png)
 
 ---
 ### Course 9 Accelerate Your Job Search with AI
 ![Course 9](Course-9-Accelerate-Your-Job-Search-with-AI.png)
-
+---
+### course google professional certificate
+![course google professional certificate](course-google-professional-certificate)
+---
 ## Career Ready AI and Professional Skills
 
 ![Career Ready AI](career-ready-ai.png)
