@@ -50,8 +50,8 @@
 ### Course 9 Accelerate Your Job Search with AI
 ![Course 9](Course-9-Accelerate-Your-Job-Search-with-AI.png)
 ---
-### course google professional certificate
-![course google professional certificate](course-google-professional-certificate)
+### google professional certificate
+![google professional certificate](google-professional-certificate)
 ---
 ## Career Ready AI and Professional Skills
 
