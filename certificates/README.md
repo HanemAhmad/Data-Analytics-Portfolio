@@ -41,8 +41,11 @@
 ### Course 7: Introduction to Data Analysis Using Python
 
 ![Course 7](Course-7-Introduction-to-Data-Analysis-Using-Python.png)
+---
 
 ---
+### Course 9 Accelerate Your Job Search with AI
+![Course 9](Course-9-Accelerate-Your-Job-Search-with-AI.png)
 
 ## Career Ready AI and Professional Skills
 
