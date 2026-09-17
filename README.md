@@ -143,4 +143,4 @@ The dashboard tells the story across four connected pages
 - 💼 LinkedIn: https://linkedin.com/in/hanemahmad
 - 💻 GitHub: https://github.com/HanemAhmad
 - 📧 Email: hesham44zeyad@gmail.com
-- 📱 Phone: +20 1008632000
+- 📱 Phone: [+20 1008632000](tel:+201008632000)
